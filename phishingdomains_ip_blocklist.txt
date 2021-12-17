@@ -1,2 +1,4 @@
 #IPs for domains sending phishing/malicious emails
-44.227.238.106 #childrenresortkid.design 17/12/2021
+#Added 17/12/2021
+44.227.238.106 #childrenresortkid.design
+199.36.158.100 #rpfhulzgxi.web.app
