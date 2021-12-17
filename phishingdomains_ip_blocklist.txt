@@ -1,0 +1,2 @@
+#IPs for domains sending phishing/malicious emails
+44.227.238.106 #childrenresortkid.design 17/12/2021
